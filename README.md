@@ -7,4 +7,6 @@ It's really hard, And I don't know how to do all of it.
 
 
 
-<img src="images/sasuke.png" alt="Sasuke" width="200">
+<img src="images/Sasuke.png" alt="Sasuke" width="200">
+
+Idk why it says "sasuke" without the pic on the second one and also I know I didn't do much becase I didn't understand it then but i kind understand.
